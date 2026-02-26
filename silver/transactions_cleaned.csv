@@ -1,0 +1,16 @@
+order_id,customer_id,customer_name,product,category,quantity,price,order_date,revenue
+1001,C001,Amit Sharma,Laptop,Electronics,1,55000,2026-01-01,55000
+1002,C002,Priya Mehta,Headphones,Electronics,2,2000,2026-01-02,4000
+1003,C001,Amit Sharma,Mouse,Electronics,1,800,2026-01-03,800
+1004,C003,Rahul Verma,Shoes,Fashion,1,2500,2026-01-05,2500
+1005,C004,Neha Singh,Bag,Fashion,2,1500,2026-01-07,3000
+1006,C002,Priya Mehta,Keyboard,Electronics,1,1200,2026-01-08,1200
+1007,C005,Karan Patel,T-shirt,Fashion,3,700,2026-01-10,2100
+1008,C003,Rahul Verma,Laptop,Electronics,1,52000,2026-01-11,52000
+1009,C001,Amit Sharma,Shoes,Fashion,1,2600,2026-01-12,2600
+1010,C006,Divya Nair,Watch,Accessories,1,5000,2026-01-13,5000
+1011,C004,Neha Singh,Heels,Fashion,1,2200,2026-01-15,2200
+1012,C005,Karan Patel,Headphones,Electronics,1,2100,2026-01-16,2100
+1013,C002,Priya Mehta,Laptop,Electronics,1,60000,2026-01-18,60000
+1014,C006,Divya Nair,Bag,Fashion,1,1800,2026-01-19,1800
+1015,C003,Rahul Verma,Mouse,Electronics,2,900,2026-01-20,1800
